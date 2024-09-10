@@ -1,8 +1,14 @@
-.vsode/
+# Ignore project virtual environment in the .venv folder
 .venv/
 
+# Ignore Visual Studio Code settings in the .vscode folder
+.vscode/
 
-# # Standard Python file .gitignore below. Keeping in case it's needed in the future
+
+
+
+
+# # Standard Python .gitignore below. Keeping in case it's needed in the future
 # '''
 # # Byte-compiled / optimized / DLL files
 # __pycache__/
